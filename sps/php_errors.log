@@ -1,0 +1,18 @@
+[14-Dec-2021 01:33:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\inetpub\wwwroot\sps\ordertrack.php on line 113
+[14-Dec-2021 01:33:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\inetpub\wwwroot\sps\ordertrack.php on line 113
+[31-Dec-2021 02:39:58 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:39:58 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:40:02 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:40:02 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:43:43 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:43:43 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:44:55 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:44:55 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:46:01 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 02:46:01 UTC] PHP Warning:  strtotime() expects parameter 1 to be string, object given in C:\inetpub\wwwroot\sps\item_ret.php on line 148
+[31-Dec-2021 11:25:48 Asia/Singapore] PHP Warning:  sqlsrv_free_stmt() expects parameter 1 to be resource, bool given in C:\inetpub\wwwroot\sps\retupd.php on line 70
+[31-Dec-2021 03:25:48 UTC] PHP Notice:  Undefined variable: detailid in C:\inetpub\wwwroot\sps\item_ret.php on line 191
+[04-Jan-2022 08:47:12 UTC] PHP Parse error:  syntax error, unexpected 'DEFAULT' (T_DEFAULT), expecting ')' in C:\inetpub\wwwroot\sps\sales.php on line 61
+[10-Jan-2022 01:34:48 UTC] PHP Recoverable fatal error:  Object of class DateTime could not be converted to string in C:\inetpub\wwwroot\sps\item_view.php on line 209
